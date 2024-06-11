@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-resolve-str@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-layout-resolve-str/tags). For example,
+
+```javascript
 import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-resolve-str@v0.0.1-esm/index.mjs';
 ```
 
@@ -103,7 +108,7 @@ var v = resolve( 'beep' );
 <script type="module">
 
 import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-str2enum@esm/index.mjs';
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-resolve-str@v0.0.1-esm/index.mjs';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-resolve-str@esm/index.mjs';
 
 var v = resolve( str2enum( 'row-major' ) );
 // returns 'row-major'
