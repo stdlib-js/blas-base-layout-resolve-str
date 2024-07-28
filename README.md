@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-resolve-str@deno/mod.js';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-resolve-str@v0.0.2-deno/mod.js';
 ```
 
 #### resolve( layout )
@@ -98,7 +98,7 @@ var v = resolve( 'beep' );
 
 ```javascript
 import str2enum from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-str2enum@deno/mod.js';
-import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-resolve-str@deno/mod.js';
+import resolve from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-layout-resolve-str@v0.0.2-deno/mod.js';
 
 var v = resolve( str2enum( 'row-major' ) );
 // returns 'row-major'
