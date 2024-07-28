@@ -184,8 +184,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/blas-base-layout-resolve-str.svg
 [npm-url]: https://npmjs.org/package/@stdlib/blas-base-layout-resolve-str
 
-[test-image]: https://github.com/stdlib-js/blas-base-layout-resolve-str/actions/workflows/test.yml/badge.svg?branch=v0.0.1
-[test-url]: https://github.com/stdlib-js/blas-base-layout-resolve-str/actions/workflows/test.yml?query=branch:v0.0.1
+[test-image]: https://github.com/stdlib-js/blas-base-layout-resolve-str/actions/workflows/test.yml/badge.svg?branch=v0.0.2
+[test-url]: https://github.com/stdlib-js/blas-base-layout-resolve-str/actions/workflows/test.yml?query=branch:v0.0.2
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-base-layout-resolve-str/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-base-layout-resolve-str?branch=main
