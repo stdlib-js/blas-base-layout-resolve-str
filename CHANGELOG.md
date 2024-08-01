@@ -2,29 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="v0.0.2">
+<section class="release" id="unreleased">
 
-## 0.0.2 (2024-07-28)
-
-No changes reported for this release.
-
-</section>
-
-<!-- /.release -->
-
-<section class="release" id="v0.0.1">
-
-## 0.0.1 (2024-06-11)
-
-<section class="features">
-
-### Features
-
--   [`68df748`](https://github.com/stdlib-js/stdlib/commit/68df748067ae7176a3f12d3d2de20def0195ffd4) - add `blas/base/layout-resolve-str`
-
-</section>
-
-<!-- /.features -->
+## Unreleased (2024-08-01)
 
 <section class="commits">
 
@@ -32,8 +12,7 @@ No changes reported for this release.
 
 <details>
 
--   [`f9bc7dc`](https://github.com/stdlib-js/stdlib/commit/f9bc7dc126bbb1c67ea03692b71613bfba205ad7) - **test:** add test cases to ensure full coverage _(by Athan Reines)_
--   [`68df748`](https://github.com/stdlib-js/stdlib/commit/68df748067ae7176a3f12d3d2de20def0195ffd4) - **feat:** add `blas/base/layout-resolve-str` _(by Athan Reines)_
+-   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
 
 </details>
 
@@ -52,6 +31,26 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.2">
+
+## 0.0.2 (2024-07-28)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.0.1">
+
+## 0.0.1 (2024-06-11)
+
+No changes reported for this release.
 
 </section>
 

@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/blas-base-layout-enum2str": "^0.0.1",
+    "@stdlib/blas-base-layout-enum2str": "^0.0.2",
     "@stdlib/blas-base-layout-str2enum": "^0.0.2"
   },
   "devDependencies": {
@@ -45,7 +45,7 @@
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.1"
+    "@stdlib/bench-harness": "^0.2.2"
   },
   "engines": {
     "node": ">=0.10.0",
