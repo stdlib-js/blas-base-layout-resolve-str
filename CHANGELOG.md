@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-26)
+## Unreleased (2026-06-05)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`9e4bd00`](https://github.com/stdlib-js/stdlib/commit/9e4bd00aa58ccaf697ef60feb35fe34db59cd60c) - **bench:** refactor to use string interpolation in `blas/base/layout-resolve-string` [(#11219)](https://github.com/stdlib-js/stdlib/pull/11219) _(by Kamal Singh Rautela)_
+-   [`9e4bd00`](https://github.com/stdlib-js/stdlib/commit/9e4bd00aa58ccaf697ef60feb35fe34db59cd60c) - **bench:** refactor to use string interpolation in `blas/base/layout-resolve-str` [(#11219)](https://github.com/stdlib-js/stdlib/pull/11219) _(by Kamal Singh Rautela)_
 
 </details>
 
